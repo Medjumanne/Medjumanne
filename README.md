@@ -7,7 +7,7 @@ I'm a research scientist with a strong academic background in Biology and Quanti
 - Bachelor's degree in Biology, University of Dodoma, Tanzania
 
 ## 🔬 Professional Experience
-I have 5 years of experience working as a research scientist in malaria vector ecology and control. I have previously worked with Tanzania's National Institute for Medical Research. 
+I have > 5 years of experience working as a research scientist in malaria vector ecology and control. I have previously worked with Tanzania's National Institute for Medical Research. 
 Currently, I am working with the Ifakara Health Institute in Tanzania. My work has focused on understanding the spread and control of malaria, contributing to the development of effective strategies for disease prevention.
 
 ## 🌍 Interests
