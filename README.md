@@ -22,7 +22,7 @@ My research has focused on malaria vector ecology and control, contributing to o
 Feel free to reach out to me at medjumanne@gmail.com, connect with me on LinkedIn: https://www.linkedin.com/in/mohamed-jumanne-032742130/ or X (formwr twitter) @EntoMohamed.
 
 ## 📚 Publications
-Kahamba NF, Okumu FO, **Jumanne M**, Kifungo K, Odero JO, Baldini F, Ferguson HM, Nelli L. Geospatial modelling of dry season habitats of the malaria vector, Anopheles funestus, in south-eastern Tanzania. Parasit Vectors. 2024 Jan 29;17(1):38. doi: 10.1186/s13071-024-06119-6. Erratum in: Parasit Vectors. 2024 Feb 13;17(1):63. PMID: 38287419; PMCID: PMC10825994.
+Kahamba NF, Okumu FO, **Jumanne M**, Kifungo K, Odero JO, Baldini F, Ferguson HM, Nelli L. Geospatial modelling of dry season habitats of the malaria vector, Anopheles funestus, in south-eastern Tanzania. Parasit Vectors. 2024 Jan 29;17(1):38. doi: 10.1186/s13071-024-06119-6. Erratum in: Parasit Vectors. 2024 Feb 13;17(1):63. PMID: 38287419; PMCID: PMC10825994. https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-024-06119-6
 
 Charlwood JD, Kampango A, **Omari M**, Okumu F. Simple techniques for a complex problem: Sampling malaria vectors in Africa. Acta Trop. 2024 Mar;251:107104. doi: 10.1016/j.actatropica.2023.107104. Epub 2024 Jan 6. PMID: 38185187. https://doi.org/10.1016/j.actatropica.2023.107104
 
