@@ -19,4 +19,4 @@ I'm passionate about conducting research that can make a difference.
 My research has focused on malaria vector ecology and control, contributing to our understanding of this important public health issue.
 
 ## 📫 How to reach me
-Feel free to reach out to me at medjumanne@gmail.com or connect with me on LinkedIn.
+Feel free to reach out to me at medjumanne@gmail.com, connect with me on LinkedIn: https://www.linkedin.com/in/mohamed-jumanne-032742130/ or X (formwr twitter) @EntoMohamed.
