@@ -3,6 +3,7 @@
 I'm a research scientist with a strong academic background in Biology and Quantitative Methods in Biodiversity, Conservation, and Epidemiology.
 
 ## 🎓 Education
+- PhD in Infectious Diseases, University of Glasgow, Scotland, UK (ongoing 2026 - 2030)
 - MSc in Quantitative Methods in Biodiversity, Conservation, and Epidemiology, University of Glasgow, Scotland, UK
 - Bachelor's degree in Biology, University of Dodoma, Tanzania
 
